@@ -6,13 +6,17 @@ I'm Cristiano Monteiro, a Computer Scientist, Licensed Ham Radio Operator (PU2SU
 I work with technology as a profession and also as a passion. Putting technology to human service is my thing. I'm also obsessed with timekeeping, Ham radio, music, etc.
 
 ### Connect with Me, Support Me
+- [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Montecri)
 - [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@montecri)
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/cristmon/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristiano-monteiro-38224313/)
 - [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:cristianomonteiro@gmail.com)
 - [![X](https://img.shields.io/twitter/follow/cristmon?style=for-the-badge&logo=X)](https://twitter.com/cristmon)
 - [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cristmon)
-  
+
+### Would like to thank the people below for sponsoring my projects
+- @saupav
+
 <!--
 **Montecri/Montecri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
