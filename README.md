@@ -30,6 +30,7 @@ I work with technology as a profession and also as a passion. Putting technology
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-Ender%203%20S1-orange?style=for-the-badge)
 ![Hackaday](https://img.shields.io/badge/Featured%20on-Hackaday-black?style=for-the-badge)
 ![Maker Faire](https://img.shields.io/badge/Maker%20Faire-Rome%202023-blue?style=for-the-badge)
+![Maker Faire](https://img.shields.io/badge/Maker%20Faire-Curitiba%202026-blue?style=for-the-badge)
 ![Time Nut](https://img.shields.io/badge/Time%20Nut-GNSS%20%7C%20NTP%20%7C%20PTP-blueviolet?style=for-the-badge&logo=clockify)
 
 ### Featured project
